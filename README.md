@@ -1,1 +1,2 @@
-# Twitter-Sentiment-Analysis
+# Introduction
+In social media platforms like Twitter, people tend to write what they feel without knowing that they are hurting people's feelings. This creates a toxic enviornment and increases the count of anxiety and depression among indidividuals. I have experienced this myself. People unknowingly said negative comments to me on social media, which hurt my feelings. To create a friendly enviornment and reduce the count of anxiety and depression, I was determined to undertake a Twitter sentiment analysis project, where I could harness the power of data science to analyze and interpret the vast amounts of data generated on social media.
